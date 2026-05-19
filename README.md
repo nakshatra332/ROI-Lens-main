@@ -195,10 +195,5 @@ ROI-Lens/
 
 Last-click attribution systematically over-credits "closer" channels and under-credits "primer" channels that initiate customer journeys. By switching to Markov/Shapley attribution and reallocating budgets accordingly, the same Rs.100 Crore spend is projected to deliver **~17% more conversions**.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 **Built for smarter marketing spend decisions 📊**
